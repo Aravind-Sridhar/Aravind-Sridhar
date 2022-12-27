@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aravind-Sridhar
-- 👀 I’m interested in Data Science, Big Data Processing, Medical Imaging, AI&ML and Neuroscience.
+- 👀 I’m interested in Data Science, Machine Learning and Deep Learning in Healthcare.
 - 🌱 I’m currently pursuing Masters in Medical Imaging and Informatics at IIT Khargapur
-- 💞️ I’m looking to collaborate on Big Data Processing, Data Science,Neuroscience and Medical Imaging.
+- 💞️ I’m looking to collaborate on Clinical Data Analytics and ML in Medical Imaging.
 - 📫 How to reach me aravindsri30@gmail.com
 
 <!---
