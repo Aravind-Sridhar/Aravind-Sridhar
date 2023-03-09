@@ -28,19 +28,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-username/)](https://www.linkedin.com/in/aravindsridhar30/)
 
 
-<button onclick="alert('Hello World!')">Click Me</button>
-<script>
-  function myFunction() {
-    var x = document.getElementById("myDropdown");
-    if (x.style.display === "none") {
-      x.style.display = "block";
-    } else {
-      x.style.display = "none";
-    }
-  }
-</script>
-
-
 
 <!---
 Aravind-Sridhar/Aravind-Sridhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
