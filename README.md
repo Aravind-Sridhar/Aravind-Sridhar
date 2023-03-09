@@ -28,6 +28,13 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-username/)](https://www.linkedin.com/in/aravindsridhar30/)
 
 
+<img src="https://example.com/my-profile-picture.png" alt="My Profile Picture" style="animation: spin 2s linear infinite;">
+<style>
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+</style>
 
 <!---
 Aravind-Sridhar/Aravind-Sridhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
