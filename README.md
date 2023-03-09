@@ -27,7 +27,7 @@
 [![View My Github Profile](https://img.shields.io/badge/-View%20My%20Github%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/Aravind-Sridhar))
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-username/)](https://www.linkedin.com/in/aravindsridhar30/)
 
-![Github Followers](https://img.shields.io/github/followers/your-username?style=social)
+![Github Followers](https://img.shields.io/github/followers/Aravind-Sridhar?style=social)
 
 
 <!---
