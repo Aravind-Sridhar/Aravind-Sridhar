@@ -8,11 +8,11 @@
 ## Skills
 
 - Python
-- R
 - SQL
 - Machine Learning
 - Deep Learning
 - Data Visualization
+- Power BI
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
@@ -24,6 +24,7 @@
 
 
 
+[![View My Github Profile](https://img.shields.io/badge/-View%20My%20Github%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 
 
 <!---
