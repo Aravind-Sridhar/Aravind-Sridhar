@@ -3,6 +3,8 @@
 - 🌱 I’m currently pursuing Masters in Medical Imaging and Informatics at IIT Khargapur
 - 💞️ I’m looking to collaborate on Clinical Data Analytics and ML in Medical Imaging.
 - 📫 How to reach me aravindsri30@gmail.com
+
+
 [![View my Linkedin Profile](https://img.shields.io/badge/-LinkedIn-blue?style=badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-username/)](https://www.linkedin.com/in/aravindsridhar30/)
 
 [![View My Github Profile](https://img.shields.io/badge/-View%20My%20Github%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/Aravind-Sridhar))
