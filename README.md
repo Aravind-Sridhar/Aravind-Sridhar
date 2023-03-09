@@ -15,16 +15,17 @@
 - Power BI
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/products/ai/ml/)
 [![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF7043?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-FFC107?style=flat-square&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white)](https://powerbi.microsoft.com/)
 
 
 
 
-[![View My Github Profile](https://img.shields.io/badge/-View%20My%20Github%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+
+[![View My Github Profile](https://img.shields.io/badge/-View%20My%20Github%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/Aravind-Sridhar))
+[![[View My Linkedin Profile](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-username/)]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/aravindsridhar30/))
 
 
 <!---
