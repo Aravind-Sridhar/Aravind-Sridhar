@@ -1,13 +1,12 @@
 - 👋 Hi, I’m @Aravind-Sridhar
-- 👀 I’m interested in Data Science, Machine Learning and Deep Learning in Healthcare.
+- 👀 I’m interested in Data Science, Machine Learning, and Deep Learning in Healthcare.
 - 🌱 I’m currently working as the Artificial Intelligence Engineer at Adiuvo Diagnostics.
-- 💞️ I’m looking to collaborate on AI, DL and ML in Healthcare
-- 📫 How to reach me aravindsri30@gmail.com
+- 💞️ I’m looking to collaborate on AI, DL, and ML in Healthcare
+- 📫 How to reach me: aravindsri30@gmail.com
 
+[![View my Linkedin Profile](https://img.shields.io/badge/-LinkedIn-blue?style=badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aravindsridhar30/)](https://www.linkedin.com/in/aravindsridhar30/)
 
-[![View my Linkedin Profile](https://img.shields.io/badge/-LinkedIn-blue?style=badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-username/)](https://www.linkedin.com/in/aravindsridhar30/)
-
-[![View My Github Profile](https://img.shields.io/badge/-View%20My%20Github%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/Aravind-Sridhar))
+[![View My Github Profile](https://img.shields.io/badge/-View%20My%20Github%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aravind-Sridhar)
 
 ## Skills
 
@@ -19,6 +18,8 @@
 - Machine Learning
 - Data Visualization
 - Power BI
+- **LLMS (Language Model Management System)**
+- **Langchain (Language Model Training Platform)**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
