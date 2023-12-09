@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aravind-Sridhar
-- 👀 I’m interested in Data Science, Machine Learning, and Deep Learning in Healthcare.
-- 🌱 I’m currently working as the Artificial Intelligence Engineer at Adiuvo Diagnostics.
+![Header](https://github.com/Aravind-Sridhar/Aravind-Sridhar/blob/main/header2.png?raw=true)
+
+- 🌱 I’m currently the Artificial Intelligence Engineer at Adiuvo Diagnostics.
 - 💞️ I’m looking to collaborate on AI, DL, and ML in Healthcare
 - 📫 How to reach me: aravindsri30@gmail.com
 
@@ -18,8 +18,8 @@
 - Machine Learning
 - Data Visualization
 - Power BI
-- **LLMS (Language Model Management System)**
-- **Langchain (Language Model Training Platform)**
+- LLMS
+- Langchain
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
