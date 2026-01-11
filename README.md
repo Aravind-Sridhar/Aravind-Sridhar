@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aravind Sridhar</h1>
 <h3 align="center">AI Engineer with a Master's degree from IIT Kharagpur, specializing in computer vision, LLMs, and cloud deployment. Built patent-pending AI solutions with measurable performance improvements. 2+ years of experience delivering production-grade AI systems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aravind-sridhar&label=Profile%20views&color=0e75b6&style=flat" alt="aravind-sridhar" /> </p>
+![Profile views](https://counter.kuber.studio/Aravind-Sridhar/hacker/count.svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravind-sridhar" alt="aravind-sridhar" /></a> </p>
 
